@@ -25,6 +25,7 @@ DAX (Data Analysis Expressions): For creating calculated measures and KPIs.
 # Use Case
 This project is ideal for individuals seeking to manage personal finances or small businesses aiming to monitor and control expenditures effectively.
 
-![image](https://github.com/user-attachments/assets/ee38117b-ee62-4869-9981-eb73b5279914)
+![image](https://github.com/user-attachments/assets/0335aa74-e181-493f-bb6d-d36bb076df14)
+
 
 
